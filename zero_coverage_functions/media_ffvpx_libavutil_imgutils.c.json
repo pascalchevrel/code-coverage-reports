@@ -1,0 +1,1 @@
+["av_image_copy_to_buffer", "av_image_fill_arrays", "av_image_get_buffer_size", "image_copy_plane_uc_from", "avpriv_set_systematic_pal2", "av_image_alloc", "image_copy", "av_image_copy", "av_image_fill_black", "av_image_check_size", "memset_bytes", "av_image_copy_uc_from", "image_copy_plane", "av_image_copy_plane"]

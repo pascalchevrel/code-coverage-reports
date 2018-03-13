@@ -1,0 +1,1 @@
+["_ZN11FifoWatcher12GetSingletonEv", "_ZL17DumpSignalHandleri", "_ZN11FifoWatcherD0Ev", "_ZN11FifoWatcher6OpenFdEv", "_ZN11FifoWatcher16RegisterCallbackERK9nsTStringIcEPFvS3_E", "_ZN17SignalPipeWatcher28OnFileCanReadWithoutBlockingEi", "_ZN11FifoWatcher28OnFileCanReadWithoutBlockingEi", "_ZN11FifoWatcherD2Ev"]

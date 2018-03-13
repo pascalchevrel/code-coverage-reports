@@ -1,0 +1,1 @@
+["aom_highbd_quantize_b_avx2", "mm256_mul_shift_epi32", "quantize", "init_one_qp", "init_qp", "update_qp", "mm256_mul_shift_epi32.isra.1", "init_one_qp.isra.0"]

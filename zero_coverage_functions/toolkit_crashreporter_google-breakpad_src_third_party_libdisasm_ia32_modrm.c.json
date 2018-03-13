@@ -1,0 +1,1 @@
+["ia32_reg_decode", "byte_decode", "imm32_signsized", "modrm_decode16", "sib_decode", "ia32_modrm_decode"]

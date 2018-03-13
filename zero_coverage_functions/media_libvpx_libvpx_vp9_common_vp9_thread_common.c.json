@@ -1,0 +1,1 @@
+["vp9_accumulate_frame_counts", "get_sync_range", "vp9_loop_filter_dealloc", "sync_read", "vp9_loop_filter_alloc", "loop_filter_rows_mt", "loop_filter_row_worker", "sync_write", "mutex_lock", "vp9_loop_filter_frame_mt", "thread_loop_filter_rows"]

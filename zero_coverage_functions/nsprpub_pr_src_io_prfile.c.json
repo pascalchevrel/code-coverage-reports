@@ -1,0 +1,1 @@
+["PipeAvailable", "PipeSync", "PR_GetSysfdTableMax", "PR_GetPipeMethods", "PipeAvailable64", "PR_UnlockFile", "PR_Rename", "PR_TLockFile", "FilePoll", "PR_Delete", "PR_SetSysfdTableSize", "PR_GetFileInfo", "PR_ImportPipe", "PR_LockFile"]

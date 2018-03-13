@@ -1,0 +1,1 @@
+["SEC_GetSignatureAlgorithmOidTag", "SGN_NewContextWithAlgorithmID", "SEC_SignDataWithAlgorithmID", "NSS_Get_CERT_SignedDataTemplate", "sec_CreateRSAPSSParameters", "SEC_CreateSignatureAlgorithmParameters", "SEC_DerSignDataWithAlgorithmID"]

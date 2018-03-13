@@ -1,0 +1,1 @@
+["av1_parse_superframe_index", "equal_dimensions", "av1_dec_setup_mi", "av1_get_raw_frame", "av1_dec_free_mi", "initialize_dec", "av1_decoder_remove", "av1_get_frame_to_show", "av1_receive_compressed_data", "swap_frame_buffers", "av1_set_reference_dec", "av1_dec_alloc_mi", "av1_copy_reference_dec", "av1_decoder_create"]

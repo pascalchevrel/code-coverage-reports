@@ -1,0 +1,1 @@
+["Poly1305Init", "U8TO32_LE", "U32TO8_LE", "Poly1305Update", "update", "Poly1305Finish", "mul32x32_64"]

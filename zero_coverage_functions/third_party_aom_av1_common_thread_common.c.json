@@ -1,0 +1,1 @@
+["loop_filter_block_plane_hor", "av1_accumulate_frame_counts", "av1_loop_filter_alloc", "sync_write", "get_sync_range", "av1_loop_filter_dealloc", "av1_loop_filter_frame_mt", "get_loop_filter_path", "sync_read", "loop_filter_rows_mt", "mutex_lock", "loop_filter_hor_row_worker", "loop_filter_block_plane_ver", "loop_filter_ver_row_worker"]

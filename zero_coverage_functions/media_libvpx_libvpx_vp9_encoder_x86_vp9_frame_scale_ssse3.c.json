@@ -1,0 +1,1 @@
+["filter.isra.0", "vp9_scale_and_extend_frame_ssse3", "eight_tap_row_ssse3", "filter", "downsample_2_to_1_ssse3", "upsample_1_to_2_ssse3"]

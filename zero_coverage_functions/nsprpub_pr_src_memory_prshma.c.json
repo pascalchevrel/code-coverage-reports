@@ -1,0 +1,1 @@
+["PR_ProcessAttrSetInheritableFileMap", "PR_ExportFileMapAsString", "PR_GetInheritedFileMap", "PR_ImportFileMapFromString", "PR_OpenAnonFileMap"]

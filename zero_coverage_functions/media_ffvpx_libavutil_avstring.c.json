@@ -1,0 +1,1 @@
+["av_strtok", "av_asprintf", "av_stristr", "av_strlcpy", "av_dirname", "av_d2str", "av_match_name", "av_stristart", "av_strcasecmp", "av_strlcat", "av_append_path_component", "av_match_list", "av_strlcatf", "av_strncasecmp", "av_strstart", "av_utf8_decode", "av_escape", "av_basename", "av_strireplace", "av_strnstr"]

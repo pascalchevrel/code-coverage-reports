@@ -1,0 +1,1 @@
+["isNotationNode", "isCommentNode", "isCDATANode", "isProcessingInstructionNode", "isAttributeNode", "isEntityRefNode", "isDocumentTypeNode", "isDocumentFragmentNode", "get documentFront", "isEntityNode", "isDocumentNode"]

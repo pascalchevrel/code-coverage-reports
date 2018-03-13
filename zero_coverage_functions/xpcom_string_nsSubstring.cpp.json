@@ -1,0 +1,1 @@
+["Gecko_TakeFromString", "Gecko_FallibleAppendCString", "\u0001?FromDataCanaryCheckFailed@nsStringBuffer@@QEBAXXZ", "Gecko_FallibleAppendString", "Gecko_SetLengthCString", "Gecko_FallibleAssignString", "_ZNK14nsStringBuffer25FromDataCanaryCheckFailedEv", "Gecko_FallibleTakeFromString", "Gecko_FallibleTakeFromCString", "Gecko_TakeFromCString"]

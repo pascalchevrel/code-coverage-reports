@@ -1,0 +1,1 @@
+["vorbis_parse_init", "av_vorbis_parse_frame_flags", "parse_setup_header", "parse_id_header", "av_vorbis_parse_init", "av_vorbis_parse_free", "av_vorbis_parse_reset", "av_vorbis_parse_frame"]

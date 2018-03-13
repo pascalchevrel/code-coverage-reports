@@ -1,0 +1,1 @@
+["MOZ_Z_gzread", "gzgetc", "MOZ_Z_gz_load", "MOZ_Z_gz_fetch", "gzfread", "MOZ_Z_gzgets", "MOZ_Z_gzdirect", "MOZ_Z_gz_look", "MOZ_Z_gz_decomp", "MOZ_Z_gzungetc", "MOZ_Z_gzclose_r", "MOZ_Z_gz_avail", "MOZ_Z_gzgetc_", "MOZ_Z_gz_skip", "MOZ_Z_gz_read"]

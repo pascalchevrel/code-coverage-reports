@@ -1,0 +1,1 @@
+["x86_disasm_forward", "internal_resolver", "x86_size_disasm", "x86_disasm", "insn_doesnt_return", "x86_invariant_disasm", "x86_disasm_range", "follow_insn_dest"]

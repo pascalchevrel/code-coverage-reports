@@ -1,0 +1,1 @@
+["_ZN16ChildProcessHost13CreateChannelERN7mozilla3ipc14FileDescriptorE", "\u0001?CreateChannel@ChildProcessHost@@IEAA_NAEAVFileDescriptor@ipc@mozilla@@@Z", "_ZN16ChildProcessHost12ListenerHookC2EPS_", "_ZN16ChildProcessHostD0Ev", "_ZN16ChildProcessHost12ListenerHook14OnChannelErrorEv", "\u0001?OnChannelError@ListenerHook@ChildProcessHost@@UEAAXXZ"]

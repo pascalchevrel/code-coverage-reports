@@ -1,0 +1,1 @@
+["_ZN6webrtc10SyncBuffer20IncreaseEndTimestampEj", "\u0001?PushFrontZeros@SyncBuffer@webrtc@@QEAAX_K@Z", "\u0001?ReplaceAtIndex@SyncBuffer@webrtc@@UEAAXAEBVAudioMultiVector@2@_K@Z", "\u0001?set_dtmf_index@SyncBuffer@webrtc@@QEAAX_K@Z", "_ZN6webrtc10SyncBuffer14set_dtmf_indexEm", "\u0001?InsertZerosAtIndex@SyncBuffer@webrtc@@UEAAX_K0@Z"]

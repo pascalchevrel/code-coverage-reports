@@ -1,0 +1,1 @@
+["vp9_encode_sby_pass1", "vp9_xform_quant_dc", "vp9_optimize_b", "vp9_xform_quant", "fdct32x32", "encode_block_pass1", "trellis_get_coeff_context"]

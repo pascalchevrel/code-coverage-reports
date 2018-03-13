@@ -1,0 +1,1 @@
+["free_scratch_buffers", "alloc_scratch_buffers", "av1_alloc_context_buffers", "av1_init_context_buffers", "av1_free_context_buffers", "av1_free_restoration_buffers", "av1_free_ref_frame_buffers", "free_seg_map", "av1_swap_current_and_last_seg_map", "alloc_seg_map", "av1_get_MBs", "av1_alloc_restoration_buffers", "av1_set_mb_mi", "av1_remove_common"]

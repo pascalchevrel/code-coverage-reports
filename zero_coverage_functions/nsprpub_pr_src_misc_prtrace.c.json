@@ -1,0 +1,1 @@
+["PR_GetTraceHandleFromName", "_PR_InitializeTrace", "PR_RecordTraceEntries", "PR_FindNextTraceRname", "PR_SetTraceOption", "PR_DestroyTrace", "NewTraceBuffer", "PR_GetTraceEntries", "PR_GetTraceNameFromHandle", "ProcessOrders", "PR_Trace", "WriteTraceSegment", "InitializeRecording", "PR_GetTraceOption", "PR_CreateTrace", "PR_FindNextTraceQname"]

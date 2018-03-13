@@ -1,0 +1,1 @@
+["FTC_Cache_Clear", "ftc_node_destroy", "ftc_cache_resize", "ftc_node_hash_link", "ftc_node_mru_link", "FTC_Cache_Init", "FTC_Cache_Done", "ftc_cache_add", "ftc_cache_init", "FTC_Cache_RemoveFaceID", "ftc_cache_done", "FTC_Cache_NewNode", "ftc_node_hash_unlink", "ftc_node_mru_unlink"]

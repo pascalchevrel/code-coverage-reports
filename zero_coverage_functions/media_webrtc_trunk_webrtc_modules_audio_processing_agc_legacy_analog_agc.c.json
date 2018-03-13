@@ -1,0 +1,1 @@
+["WebRtcAgc_ProcessAnalog", "WebRtcAgc_Process", "WebRtcAgc_ZeroCtrl", "WebRtcAgc_SpeakerInactiveCtrl", "WebRtcAgc_get_config", "WebRtcAgc_SaturationCtrl", "WebRtcAgc_AddFarend", "WebRtcAgc_AddMic", "WebRtcAgc_ExpCurve", "WebRtcAgc_VirtualMic", "WebRtcAgc_GetAddFarendError"]

@@ -1,0 +1,1 @@
+["_cairo_xlib_screen_get_gc", "_cairo_xlib_screen_get_visual_info", "_cairo_xlib_screen_put_gc", "parse_boolean", "get_boolean_default", "get_integer_default", "_cairo_xlib_screen_get_font_options", "_cairo_xlib_init_screen_font_options"]

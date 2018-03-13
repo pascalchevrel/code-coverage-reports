@@ -1,0 +1,1 @@
+["get path", "get unixLastStatusChangeDate", "get name", "get size", "becauseNotEmpty", "exists", "invalidArgument", "get unixGroup", "get lastAccessDate", "get unixMode", "AbstractInfo", "noSuchFile", "AbstractEntry", "get isSymLink", "closed", "get isDir", "toMsg", "get lastModificationDate", "becauseAccessDenied", "get unixOwner"]

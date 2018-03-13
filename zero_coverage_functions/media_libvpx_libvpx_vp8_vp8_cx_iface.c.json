@@ -1,0 +1,1 @@
+["vp8e_set_activemap", "vp8e_set_previewpp", "set_sharpness", "set_tuning", "vp8e_get_preview", "set_cq_level", "set_arnr_type", "ctrl_set_rc_gf_cbr_boost_pct", "vp8e_set_scalemode", "vp8e_set_roi_map", "set_enable_auto_alt_ref", "vp8e_set_reference", "set_arnr_strength", "update_error_state", "set_arnr_max_frames", "update_error_state.isra.0", "vp8e_get_reference"]

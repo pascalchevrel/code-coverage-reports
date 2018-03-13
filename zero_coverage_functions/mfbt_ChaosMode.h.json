@@ -1,0 +1,1 @@
+["_ZN7mozilla9ChaosMode20randomUint32LessThanEj", "\u0001?randomUint32LessThan@ChaosMode@mozilla@@SAII@Z", "\u0001?SetChaosFeature@ChaosMode@mozilla@@SAXW4ChaosFeature@2@@Z", "_ZN7mozilla9ChaosMode14enterChaosModeEv", "\u0001?enterChaosMode@ChaosMode@mozilla@@SAXXZ", "_ZN7mozilla9ChaosMode14leaveChaosModeEv", "\u0001?leaveChaosMode@ChaosMode@mozilla@@SAXXZ"]

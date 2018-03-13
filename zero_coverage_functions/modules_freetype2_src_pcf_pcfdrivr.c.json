@@ -1,0 +1,1 @@
+["PCF_Glyph_Load", "PCF_Face_Done", "pcf_get_charset_id", "PCF_Face_Init", "pcf_cmap_done", "PCF_Size_Select", "pcf_get_bdf_property", "pcf_property_set", "pcf_property_get", "pcf_cmap_init", "pcf_cmap_char_index", "PCF_Size_Request", "pcf_cmap_char_next"]

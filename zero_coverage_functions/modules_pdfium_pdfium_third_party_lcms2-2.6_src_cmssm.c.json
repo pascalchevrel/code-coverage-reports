@@ -1,0 +1,1 @@
+["cmsGBDFree", "cmsGDBAddPoint", "FindNearSectors", "QuantizeToSector", "cmsGDBCompute", "cmsGDBCheckPoint", "LineOf2Points", "ToCartesian", "cmsGBDAlloc", "ClosestLineToLine", "InterpolateMissingSector", "_cmsAtan2", "GetPointOfLine", "ToSpherical", "GetPoint"]

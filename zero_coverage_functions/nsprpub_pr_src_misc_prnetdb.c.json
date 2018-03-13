@@ -1,0 +1,1 @@
+["getprotobynumber_r", "AppendV4AddrsToHostent.isra.0", "MakeIPv4CompatAddr", "V6AddrToString", "_pr_QueryNetIfs", "PR_GetHostByName", "PR_GetIPNodeByName", "PR_EnumerateHostEnt", "PR_GetProtoByName", "PR_GetHostByAddr", "pr_GetAddrInfoByNameFB", "getprotobyname_r", "pr_NetAddrToStringFB", "CopyProtoent", "MakeIPv4MappedAddr", "PR_GetProtoByNumber"]

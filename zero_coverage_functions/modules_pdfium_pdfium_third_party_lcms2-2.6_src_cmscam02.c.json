@@ -1,0 +1,1 @@
+["XYZtoCAT02", "cmsCIECAM02Reverse", "ComputeCorrelates", "CAT02toXYZ", "computeD", "computeFL", "NonlinearCompression", "compute_n", "InverseCorrelates", "cmsCIECAM02Forward", "ChromaticAdaptation", "InverseNonlinearity", "CAT02toHPE", "computeNbb", "cmsCIECAM02Init", "cmsCIECAM02Done", "HPEtoCAT02", "compute_z", "InverseChromaticAdaptation"]

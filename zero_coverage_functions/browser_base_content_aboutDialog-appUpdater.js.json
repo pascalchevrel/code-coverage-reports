@@ -1,0 +1,1 @@
+["onProgress", "onError", "startDownload", "buttonRestartAfterDownload", "observer", "onStatus", "get backgroundUpdateEnabled", "onStartRequest", "setupDownloadingUI", "onCheckComplete", "onStopRequest", "checkForUpdates", "get updateAuto"]

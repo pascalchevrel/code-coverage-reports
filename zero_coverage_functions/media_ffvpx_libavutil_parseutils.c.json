@@ -1,0 +1,1 @@
+["av_parse_video_rate", "av_parse_time", "av_get_known_color_name", "date_get_num", "date_get_month", "av_parse_color", "av_timegm", "color_table_compare", "av_parse_ratio", "av_parse_video_size", "av_find_info_tag", "av_small_strptime"]

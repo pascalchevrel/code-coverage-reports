@@ -1,0 +1,1 @@
+["aom_malloc", "aom_memalign", "aom_free", "GetActualMallocAddress", "aom_memset16", "aom_calloc", "GetAlignedMallocSize", "GetMallocAddressLocation", "SetActualMallocAddress"]

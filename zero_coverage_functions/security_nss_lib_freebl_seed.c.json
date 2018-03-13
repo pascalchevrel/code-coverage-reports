@@ -1,0 +1,1 @@
+["SEED_AllocateContext", "SEED_CreateContext", "SEED_set_key", "SEED_InitContext", "SEED_DestroyContext", "SEED_Encrypt", "SEED_decrypt", "SEED_Decrypt", "SEED_cbc_encrypt", "SEED_encrypt", "SEED_ecb_encrypt"]
