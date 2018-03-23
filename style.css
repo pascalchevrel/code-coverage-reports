@@ -1,11 +1,12 @@
 body {
   font-family: sans-serif;
-  background-color:aliceblue;
+  background-color:#fafdff;
   color: #151515;
   line-height: 1.3em;
   margin: 1em 0;
   text-align: center;
 }
+
 a {
   text-decoration: none;
 }
@@ -20,14 +21,20 @@ label {
   border-bottom: 1px solid darkgray;
   padding: 1em 20%;
   text-align: left;
-
   margin: auto;
+  display:table;
+  width: 100%;
 }
 
 #output span {
   display:table-row;
   height: 1.5em;
 }
+
+#output span:nth-child(4n) {
+    background: #fafdff;
+}
+
 #output span:hover {
   background-color: aliceblue;
 }
@@ -41,7 +48,7 @@ label {
 
 #output a {
   display: table-cell;
-  padding-right: 1em;
+  padding: 0 1em;
 }
 
 #output br {
